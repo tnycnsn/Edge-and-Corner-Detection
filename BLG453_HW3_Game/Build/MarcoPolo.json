@@ -1,0 +1,11 @@
+{
+"companyName": "DefaultCompany",
+"productName": "PUN_Test",
+"dataUrl": "MarcoPolo.data.unityweb",
+"asmCodeUrl": "MarcoPolo.asm.code.unityweb",
+"asmMemoryUrl": "MarcoPolo.asm.memory.unityweb",
+"asmFrameworkUrl": "MarcoPolo.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
